@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2010\Projects\c-courses_class\c-courses_class\bin\Debug\c-courses_class.exe
+c:\users\администратор\documents\visual studio 2010\Projects\c-courses_class\c-courses_class\bin\Debug\c-courses_class.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\c-courses_class\c-courses_class\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2010\Projects\c-courses_class\c-courses_class\obj\x86\Debug\c-courses_class.exe
+c:\users\администратор\documents\visual studio 2010\Projects\c-courses_class\c-courses_class\obj\x86\Debug\c-courses_class.pdb
