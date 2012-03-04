@@ -1,0 +1,5 @@
+C:\Users\Администратор\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Администратор\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\Администратор\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
