@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTime", "DataTime\DataTime.csproj", "{D06550EF-1C0A-4AAD-94D4-7A0BE7516C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06550EF-1C0A-4AAD-94D4-7A0BE7516C92}.Debug|x86.ActiveCfg = Debug|x86
+		{D06550EF-1C0A-4AAD-94D4-7A0BE7516C92}.Debug|x86.Build.0 = Debug|x86
+		{D06550EF-1C0A-4AAD-94D4-7A0BE7516C92}.Release|x86.ActiveCfg = Release|x86
+		{D06550EF-1C0A-4AAD-94D4-7A0BE7516C92}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

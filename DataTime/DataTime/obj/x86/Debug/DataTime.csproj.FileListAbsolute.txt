@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2010\Projects\DataTime\DataTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2010\Projects\DataTime\DataTime\bin\Debug\DataTime.exe
+c:\users\администратор\documents\visual studio 2010\Projects\DataTime\DataTime\bin\Debug\DataTime.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\DataTime\DataTime\obj\x86\Debug\DataTime.exe
+c:\users\администратор\documents\visual studio 2010\Projects\DataTime\DataTime\obj\x86\Debug\DataTime.pdb

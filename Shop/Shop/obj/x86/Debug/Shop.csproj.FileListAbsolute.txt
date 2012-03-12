@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Shop\Shop\bin\Debug\Shop.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
